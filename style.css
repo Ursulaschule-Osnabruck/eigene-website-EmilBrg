@@ -1,1 +1,32 @@
+.card1{
+    margin-left: 300px;
+    margin-right: 300px;
+    color: white;
+}
+.card2{
+    color: white;
+}
+.card3{
+    color: white;
+}
+.Charakter{
+    margin-left: 180px;
+    margin-right: 180px;
+    font-family: Jost;
+    color: white;
+}
+.Uberschrift{
+    font-family: Jost;
+    color: white;
+    margin-left: 180px;
+}
+.
 
+.Strich{
+color: white;
+margin-left: 180px;
+}
+
+body{
+    background-image: url(Image/Hintergrund.jpg);
+}
